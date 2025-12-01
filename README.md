@@ -1,1 +1,1 @@
-# AI_agent
+# AI_agent Intensive - Capstone Project
